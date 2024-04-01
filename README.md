@@ -10,6 +10,7 @@ Retrieve Pets: Get the list of all pets stored in the database.
 Retrieve Pet by name: Fetch details of a specific pet based on its name.
 Update Pet: Update the information of an existing pet in the database.
 Delete Pet: Remove a pet from the database based on its ID.
+Security: User credentials in MySQL database
 
 Technologies Used:
 Spring Boot
@@ -18,3 +19,4 @@ Spring Web
 OpenAPI (Swagger)
 MySql Database
 Maven
+Spring security
